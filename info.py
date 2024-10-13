@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'PeachLovesGomaBot')
 API_ID = int(environ.get('API_ID', '14050586'))
 API_HASH = environ.get('API_HASH', '42a60d9c657b106370c79bb0a8ac560c')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7345923520:AAF3iZVhdDsTkQUDcJBZQYwMgOffqXkGJuQ")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7345923520:AAGxJI2P8RfSqKzLjqydBgsZU2NzSdTd2eM")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
